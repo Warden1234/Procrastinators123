@@ -11,3 +11,8 @@ This project is the solution for the hackathon "Datathon Hackathon 2024". This s
 * transformers, PyTorch,
 * Optuna
 * Pandas, numpy
+## License
+This project is licensed under the MIT License.
+
+## Contacts
+For any inquiries or contributions, reach out via email at srlk04@mail.ru or open an issue on GitHub.
